@@ -1,0 +1,9 @@
+.idea
+*.xml
+Books/
+StopRemovedAuthors/
+StopRemovedBooks/
+StopRemovedTypes/
+TokenizedAuthors/
+TokenizedBooks/
+TokenizedTypes/
